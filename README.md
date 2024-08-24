@@ -12,11 +12,6 @@
 下载更新，更新子模块。
 
 ```
-$ git clone https://github.com/shenweiyan/Bioit-top.git
-$ cd Bioit-top
-$ git submodule update --init --recursive
-$ cd themes/WebStack-Hugo
-$ git pull https://github.com/shenweiyan/WebStack-Hugo.git
+$ git clone https://github.com/miao9999/web3-nav
+$ cd web3-nav
 ```
-
-修改内容在 feat-aitool 分支。
