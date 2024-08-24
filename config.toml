@@ -1,4 +1,4 @@
-baseURL               = "https://bioit.top"
+baseURL               = "https://web3-nav.vercel.app/"
 languageCode          = "zh-CN"
 title                 = "Web3 网址导航"
 theme                 = "WebStack-Hugo"
