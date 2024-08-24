@@ -12,6 +12,7 @@
 下载更新，更新子模块。
 
 ```
-$ git clone https://github.com/miao9999/web3-nav
+$ git clone https://github.com/huaqianshu-lm/web3-nav
 $ cd web3-nav
+$ hugo server // 启动本地调试服务器
 ```

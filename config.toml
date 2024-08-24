@@ -1,6 +1,6 @@
 baseURL               = "https://bioit.top"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
+title                 = "Web3 网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -8,7 +8,7 @@ hasCJKLanguage        = true
 publishDir            = "public"
 
 [params]
-    author        = "shenweiyan"
+    author        = "花千树"
     description   = "网址导航主题 | WEB3 爱好者"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"
     about         = "https://weiyan.cc/discussions-10/"	                # 左侧导航栏的"关于我们"页面(./about)
@@ -32,16 +32,16 @@ publishDir            = "public"
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://res.bioit.top/sites/favicon.png"
-    searchImageL      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分浅色背景图
-    searchImageD      = "https://res.bioit.top/banner/bg-dna.jpg"	# 搜索部分深色背景图
-    logoExpandLight   = "/images/logo-ai4.jpg"
-    logoExpandDark    = "/images/logo-ai4.jpg"
-    logoCollapseLight = "/images/logo-ai4.jpg"
-    logoCollapseDark  = "/images/logo-ai4.jpg"
+    favicon           = "/images/logo-ai2.jpg"
+    searchImageL      = "/images/bg.jpg"	# 搜索部分浅色背景图
+    searchImageD      = "/images/bg.jpg"	# 搜索部分深色背景图
+    logoExpandLight   = "/images/logo-ai2.jpg"
+    logoExpandDark    = "/images/logo-ai2.jpg"
+    logoCollapseLight = "/images/logo-ai2.jpg"
+    logoCollapseDark  = "/images/logo-ai2.jpg"
 
 [markup.goldmark.renderer]
     unsafe = true
 
 [params.footer]
-    copyright = '&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Web3 爱好者]()   <br/>本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="mailto:huaqianshu.lm@gmail.com?subject=WebStack-Hugo网址导航意见反馈" target="_blank">huaqianshu.lm@gmail.com</a> | 网站源码：<a href="https://github.com/miao9999/Bioit-top/tree/feat-aitool" target="_blank">https://github.com/miao9999/Bioit-top/tree/feat-aitool</a> '
+    copyright = '&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Web3 爱好者]()   <br/>本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="mailto:huaqianshu.lm@gmail.com?subject=WebStack-Hugo网址导航意见反馈" target="_blank">huaqianshu.lm@gmail.com</a> | 网站源码：<a href="https://github.com/huaqianshu-lm/web3-nav" target="_blank">https://github.com/huaqianshu-lm/web3-nav</a> '
