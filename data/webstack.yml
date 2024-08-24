@@ -1,0 +1,434 @@
+---
+- taxonomy: 推特账号
+  icon: fas fa-medal
+  links:
+    - title: Vitalik Buterin
+      logo: https://pbs.twimg.com/profile_images/1748153260203229184/sXJIGMBk_400x400.jpg
+      url: https://x.com/VitalikButerin
+      description: 以太坊的联合创始人之一。
+    - title: CZ Binance
+      logo: https://pbs.twimg.com/profile_images/1781374522966601732/HA_dnDvL_400x400.jpg
+      url: https://x.com/cz_binance
+      description: Binance交易所的创始人。
+    - title: CryptoSlate
+      logo: https://pbs.twimg.com/profile_images/918797950821720064/s_rTndi0_400x400.jpg
+      url: https://x.com/CryptoSlate
+      description: 分享区块链和加密货币行业新闻和分析。
+    - title: CoinDesk
+      logo: https://pbs.twimg.com/profile_images/1430879040156667904/NlbJjd-l_400x400.png
+      url: https://x.com/CoinDesk
+      description: Leading the conversation on the future of money.
+    - title: ethereum
+      logo: https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg
+      url: https://x.com/ethereum
+      description: EF 是一个非营利组织，是致力于资助协议开发、发展生态系统和倡导以太坊的组织和人员社区的一部分。
+
+- taxonomy: Youtube账号
+  icon: far fa-star
+  links:
+    - title: Web3富翁區塊學院
+      logo: https://yt3.googleusercontent.com/b6AiSRG1edBM90PC3BLmmPN06WmuVGpgLqSn8SDeZKTMZHOYD_bMCMvo7rVktGgIfoiBDKSH4Uk=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@web3gogogo
+      description: Web3区块链項目开发教学。
+    - title: Vic TALK
+      logo: https://yt3.googleusercontent.com/K3T7oJgJQKYia8FJ1nJeoewA_zfwXmNbs2z3yklw_bLM6e7zSywcmHX8Q1tAL83-I7lwlPvg3w=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@victalk6886
+      description: Web3热点项目追踪和经济模型硬核分析。
+    - title: Smart Contract Programmer
+      logo: https://yt3.googleusercontent.com/PUHc3k1kptoEzGifgj8PmX2kkJS6GLVehH3EY8Qdhz8clI1jgb4ERMeoQe-I2JfSIFCAxRCe=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@smartcontractprogrammer
+      description: 智能合约编程教学。
+    - title: Ethereum
+      logo: https://yt3.googleusercontent.com/awx67-fUeBngkXxdwtB0m94_nLDUX92XBo9DHJrgGeZgeL_9iyniElHLQzpsM_h3lyDuvGUQTw=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@EthereumProtocol
+      description: 介绍以太坊。
+    - title: CryptoCheese
+      logo: https://yt3.googleusercontent.com/Qvm0ZPK5jjskzzS3MQqN1zrumxAyBzQsfAs88A8gMeUH-kgQf6O2yWqkB_tgAScajev7MlJrsQ=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@CryptoCheese
+      description: 分享在web3学习的过程心得和经验。
+    - title: 钻石手DiamondHands
+      logo: https://yt3.googleusercontent.com/OjXqaCjOiYFC5I95iR5nEFUw5Vt6TvEjIMs8jE3xI2AWKaYZG5RxGss7iQJzOg-zkaPNmORP2Q=s160-c-k-c0x00ffffff-no-rj
+      url: https://www.youtube.com/@diamondhands6180
+      description: 专注于价值项目的深度分享。
+
+- taxonomy: 编程资源
+  icon: fas fa-dna
+  links:
+    - title: 以太坊官方文档
+      logo: https://ethereum.org/images/favicon.png
+      url: https://ethereum.org/developers/
+      description: 以太坊官方文档。
+
+    - title: Solidity 官方文档
+      logo: https://docs.soliditylang.org/en/v0.8.26/_static/img/logo-dark.svg
+      url: https://docs.soliditylang.org/
+      description: Solidity 官方文档。
+
+    - title: Web3.js 文档
+      logo:
+      url: https://web3js.readthedocs.io/
+      description: Web3.js 文档。
+
+    - title: ruffle 框架文档
+      logo: https://archive.trufflesuite.com/assets/logo.png
+      url: https://www.trufflesuite.com/docs
+      description: ruffle 框架文档。
+
+    - title: Remix IDE
+      logo: https://remix.ethereum.org/assets/img/remix-logo-blue.png
+      url: https://remix.ethereum.org/
+      description: Remix IDE。
+
+- taxonomy: 资讯网站
+  icon: fas fa fa-graduation-cap
+  links:
+    - title: "星球日报"
+      logo: "https://www.odaily.news/favicon.ico"
+      url: "https://www.odaily.news"
+      description: "整合区块链产业链资源。"
+
+    - title: "深潮"
+      logo: "https://image.theblockbeats.info/icon/favicon.ico"
+      url: "https://www.techflowpost.com/index.html"
+      description: "专业的Crypto、Web3及NFT研究机构及资讯平台。"
+
+    - title: "律动"
+      logo: ""
+      url: "https://theblockbeats.info"
+      description: "Blockchain and cryptocurrency news updates."
+
+    - title: "Mirror"
+      logo: "https://mirror.xyz/favicon.ico"
+      url: "https://mirror.xyz/"
+      description: "High-quality international information source."
+
+    - title: "FN精选"
+      logo: "https://foresightnews.pro/foresight.ico"
+      url: "https://foresightnews.pro/article"
+      description: "Chinese information and news platform."
+
+    - title: "链捕手新闻"
+      logo: "https://www.chaincatcher.com/favicon.ico"
+      url: "https://www.chaincatcher.com"
+      description: "一个全面的区块链和加密货币信息平台，提供最新的行业新闻、深度分析和专题报道。"
+
+    - title: "Panews"
+      logo: "https://image.panewslab.com/images/favicon.ico"
+      url: "https://www.panewslab.com"
+      description: "是一家专为Web3、区块链技术应用及金融科技创业者及领导者打造的智库型媒体。"
+
+    - title: "CoinMarketCap"
+      logo: "https://coinmarketcap.com/favicon.ico"
+      url: "https://coinmarketcap.com/"
+      description: "一个提供加密货币市场数据、交易量和价格信息的平台。"
+
+    - title: "CoinGecko"
+      logo: "https://www.coingecko.com/favicon.ico"
+      url: "https://www.coingecko.com/"
+      description: "一个提供加密货币市场数据、新闻和研究工具的平台。"
+
+    - title: "Ethereum"
+      logo: "https://ethereum.org/images/favicon.png"
+      url: "https://ethereum.org/"
+      description: "以太坊官方网站，提供关于以太坊技术和生态系统的信息。"
+
+    - title: "DeFi Pulse"
+      logo: ""
+      url: "https://defipulse.com/"
+      description: "提供去中心化金融（DeFi）项目和市场数据的跟踪。"
+
+    - title: "Layer 2 Analysis Research"
+      logo: https://l2beat.com/favicon.svg
+      url: "https://l2beat.com/scaling/tvl"
+      description: "可以让我们直观的了解到很多热门项目当前的发展情况，比如L2和eth主网目前的交易数据高低、项目月交易量数据、官方网站、官方推特和dc、背后的技术对比等等相关信息，从而增进对该项目的判断。"
+
+- taxonomy: 链上数据查询网站
+  icon:  fas fa-mug-hot
+  links:
+    - title: "BnbProject" 
+      logo: https://resource.staked.store/bnbproject/favicon.ico
+      url: "https://bscproject.org"
+      description: "BSC chain on-chain data query site."
+
+    - title: "DEX"
+      logo: https://dexscreener.com/favicon.png
+      url: "https://dexscreener.com"
+      description: "DEX data query site."
+
+    - title: "BTCETH"
+      logo: https://cryptoquant.com/favicon.ico
+      url: "https://cryptoquant.com"
+      description: "BTCETH on-chain capital data query."
+
+    - title: "Defined"
+      logo: https://www.defined.fi/favicon.ico
+      url: "https://www.defined.fi"
+      description: "Real-time DEX trading history query."
+
+    - title: "DappRadar"
+      logo: https://static.dappradar.com/website-fe-pr/public-assets/favicon-32x32.png
+      url: "https://dappradar.com"
+      description: "全球最大Dapp聚合网站。"
+
+    - title: "BlockScan"
+      logo: https://blockscan.com/favicon-32x32.png
+      url: "https://blockscan.com"
+      description: "Blockchain search engine."
+
+    - title: "CryptoMeter"
+      logo: https://www.cryptometer.io/img/favicon-32x32.png
+      url: "https://www.cryptometer.io"
+      description: "查看资金流向。"
+
+    - title: "Artemis Terminal"
+      logo: https://app.artemis.xyz/favicon-32x32.png
+      url: "https://app.artemis.xyz/dashboard"
+      description: "查看活跃用户和交易量。"
+
+
+
+
+- taxonomy: 工具集合
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 空投工具
+      links:
+        - title: "Earnifi"
+          logo: https://earni.fi/images/heli.svg
+          url: "https://earni.fi"
+          description: "寻找空投."
+
+        - title: "Airdrop Alert"
+          logo: https://airdropalert.com/wp-content/uploads/2023/12/airdrop-alert-logo.png
+          url: "https://airdropalert.com"
+          description: "空投聚合网站。"
+
+        - title: "Airdrop Bob"
+          logo: 	https://www.airdropbob.com/img/logo.webp
+          url: "https://www.airdropbob.com"
+          description: "空投聚合器。"
+
+        - title: "Drops Earn"
+          logo: https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/images/favicons/favicon-32x32.png
+          url: "https://dropsearn.com/airdrops"
+          description: "空投聚合器。"
+
+        - title: "Root Data"
+          logo: https://www.rootdata.com/favicon.ico
+          url: "https://www.rootdata.com/zh"
+          description: "结构化程度更高，可读性更强的 Web3 数据层。"
+    - term: Defi 数据分析工具 
+      links:
+        - title: DefiLlama
+          logo: https://defillama.com/favicon-32x32.png
+          url: https://defillama.com
+          description: Largest TVL aggregator in Defi.
+        - title: CoinHippo
+          logo: https://coinhippo.io/logos/logo.png
+          url: https://coinhippo.io
+          description: Update on current top tokens by market cap, leading exchange by confidences, trending search, DeFi, DEX, Futures Derivatives, and other exciting information in crypto world..
+
+        - title: Glassnode Studio
+          logo: https://studio.glassnode.com/favicon_32.png
+          url: https://studio.glassnode.com
+          description: On-chain data analysis for mainstream cryptocurrencies.
+
+        - title: Footprint Analytics
+          logo: https://www.footprint.network/app/assets/img/apple-touch-icon.png
+          url: https://www.footprint.network
+          description: Platform for visual data analysis.
+
+        - title: DeFi Pulse
+          logo: 
+          url: https://www.defipulse.com
+          description: Focused on Ethereum Defi protocol data.
+
+        - title: Dune Analytics
+          logo: https://dune.com/assets/glyph-32w.png
+          url: https://dune.xyz/
+          description: Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, Bitcoin, Polygon, BNB Chain, Solana, Arbitrum, Avalanche, Optimism, Fantom and Gnosis Chain for free..
+
+        - title: Celer Network
+          logo: https://celer.network/favicon-32x32.png?v=9e89e7bed7141d7a61ec58616cd0a2bb
+          url: https://www.celer.network
+          description: Cross-chain tool supporting 24 chains.
+    - term: DApp 数据分析
+      links:
+        - title: Token Terminal
+          logo: https://assets-global.website-files.com/6523ce8efc8767aef1c56b2b/6537894d61118c84d47396fb_Logolow.png
+          url: https://www.tokenterminal.com/
+          description: Financial metrics for crypto projects.
+
+        - title: The Graph
+          logo: https://storage.googleapis.com/graph-web/favicon.png
+          url: https://thegraph.com/
+          description: The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL..
+
+    - term: 投资融资查询
+      links:
+        - title: 融资数据库
+          logo: https://messari.io/favicon.ico
+          url: https://www.dovemetrics.com/
+          description: Fundraising database for the crypto industry.
+
+        - title: 项目方投资数据查询
+          logo: https://www.cypherhunter.com/favicon/favicon-32x32.png
+          url: https://www.cypherhunter.com/zh-hans/
+          description: Investment data search for blockchain projects.
+
+        - title: 非小号
+          logo: https://www.feixiaohao.com/favicon.svg
+          url: https://www.feixiaohao.co/data/gray.html
+          description: 专业的数字货币行业大数据平台之一，实时更新全球比特币行情价格,以太坊价格等,专注于为数字货币用户提供数据分析，数据挖掘服务。非小号拥有全球10000多个加密货币信息，600多家交易平台，数万个交易对的数据资源，提供最专业的数字货币趋势分析，行情分析等多维度，全方位的分析服务.
+
+        - title: Crunch Base
+          logo: https://www.crunchbase.com/favicon-32x32.png?v=2.0
+          url: https://www.crunchbase.com/
+          description: 各行业公司的融资历史.
+
+        - title: 大全网站
+          logo: https://www.rootdata.com/favicon.ico
+          url: https://www.rootdata.com/
+          description: Providing the most up-to-date and complete Crypto project financing information,detailed project background,team members,investors,news updates,token price data,and on-chain assets tracking. Dedicated to making Crypto investing easier.
+
+    - term: 中心化交易所
+      links:
+        - title: 币安
+          logo: https://bin.bnbstatic.com/static/images/common/favicon.ico
+          url: https://www.binance.com/zh-CN
+          description: 币安是成交量最大的加密货币交易平台，为全球 180 多个国家的 1.85 亿用户提供服务。上架币种 350 余种，是世界领先的加密货币交易平台。
+
+        - title: Okx
+          logo: https://www.okx.com/favicon.ico
+          url: https://www.okx.com/cn
+          description: 欧易是世界领先的数字货币交易平台，你可以放心购买比特币、以太币、狗狗币、瑞波币等数字货币，也可以探索 Web3、投资 DeFi 和 NFT。立即注册，体验金融的未来。
+        - title: mexc
+          logo: https://www.mexc.com/sites/favicon.ico
+          url: https://www.mexc.com/zh-CN
+          description: MEXC加密货币交易所。我们的平台提供快速安全的数字资产交易服务和各种加密代币的实时价格，如比特币 BTC、以太坊 ETH 等加密代币以及其他山寨币：NFT、DeFi、GameFi 和 Metaverse 元宇宙区域。快来MEXC上购买加密货币！
+
+        - title: Gate.io
+          logo: https://www.gate.io/images/gate.io_logo.png
+          url: https://www.gate.io/zh
+          description: 领先的加密货币交易所，拥有超过1700种加密货币和稳定币，如比特币✓ 以太币✓ 狗狗币✓ 即刻进入Gate.io进行加密交易！
+    - term: NFT 交易市场
+      links:
+        - title: OpenSea
+          logo: https://opensea.io/static/images/logos/opensea-logo.svg
+          url: https://opensea.io
+          description: The largest NFT marketplace for buying, selling, and discovering digital assets.
+
+        - title: Blur
+          logo: https://blur.io/favicons/32.png
+          url: https://blur.io
+          description: Sweep NFTs across multiple marketplaces, snipe reveals faster than others, and manage your portfolio with advanced analytics. Zero fees.
+
+        - title: X2Y2
+          logo: https://x2y2.io/favicon.ico
+          url: https://x2y2.io
+          description: 用X2Y2释放你的NFT的全部潜力：交易、购买、贷款以及更多。
+
+        - title: LooksRare
+          logo: https://looksrare.org/favicon-32x32.png
+          url: https://looksrare.org
+          description: NFT marketplace that rewards users for participating in the ecosystem.
+
+        - title: Element
+          logo: https://static.element.bid/resource/images/favicon-32.png
+          url: https://element.market
+          description: The largest NFT marketplace of Layer 2 network.  Buy & Sell NFTs across market, Trade to Earn
+
+    - term: NFT 二级交易市场
+      links:
+        - title: NFTNerds
+          logo: https://nftnerds.ai/favicon.svg
+          url: https://nftnerds.ai
+          description: Real-time NFT transaction prices and listing numbers.
+
+        - title: NFTFlip
+          logo: https://nftflip.ai/favicon.ico
+          url: https://nftflip.ai
+          description: NFT short-term trading tool.
+
+  
+    - term: 综合数据查询
+      links:
+        - title: NFTGo
+          logo: https://static.nftgo.io/logo-V3.svg
+          url: https://nftgo.io
+          description: Comprehensive NFT data aggregator with market analytics.
+
+    - term: 项目评估
+      links:
+        - title: TwitterScan
+          logo: https://twitterscan.com/img/icons/favicon-32x32.png
+          url: https://twitterscan.com
+          description: TwitterScan, the No.1 source for NFT social media Analytic. Help users find hidden NFT and crypto by Twitter influencers Tracking + Twitter Followers Analysis.
+
+    - term: 铸造监控
+      links:
+        - title: CatchMint
+          logo: https://catchmint.xyz/favicon-32x32.png
+          url: https://catchmint.xyz
+          description: Discover the best new NFTs, every day.
+
+        - title: MCT 链上工具
+          logo: https://nuxt-cdn.mct.club/img/logo.13f5610.svg
+          url: https://mct.xyz/nft/minting
+          description: Real-time tracking of NFT minting activities.
+
+    - term: 项目发售日历
+      links:
+        - title: TSR Alpha
+          logo: https://pbs.twimg.com/profile_images/1643954611873796096/TEkGckTT_400x400.jpg
+          url: https://twitter.com/TSR_alpha
+          description: Twitter account for TSR Alpha with updates and insights.
+
+        - title: AlphaBot Calendar
+          logo: https://www.alphabot.app/favicon.ico
+          url: https://www.alphabot.app/calendar
+          description: Calendar for tracking upcoming NFT and crypto events.
+    - term: 其他工具
+      links:
+        - title: 好维持
+          logo: aliued.png
+          url: http://www.haoweichi.com/Login/register
+          description: 虚拟身份生成网站。
+        - title: 预空投名单
+          logo: https://www.bankless.com/assets/img/favicon/favicon-32x32.png
+          url: https://www.bankless.com/the-ultimate-guide-to-airdrops
+          description: Web3最知名的DAO之一，对 BanklessDAO 的总结，有比较全面的行业资讯。
+        - title: 钱包跟踪
+          logo: https://nfttrack.ai/static/favicon.ico
+          url: https://nfttrack.ai/
+          description: 监控钱包地址的资产变化。
+        
+        - title: 比特币指纹浏览器
+          logo: https://www.bitbrowser.cn/favicon.ico
+          url: https://www.bitbrowser.cn/
+          description: 比特币浏览器，提供比特币地址、交易历史、区块高度等信息。
+        - title: gas 查询
+          logo: https://nuxt-cdn.mct.club/img/logo.13f5610.svg
+          url: https://mct.xyz/gasnow  
+          description: 查询不同时间段的 gas。
+
+        - title: 实时查询 gas 插件
+          logo: https://www.blocknative.com/hubfs/Icons%20and%20Illustrations/blocknative%20favicon.png
+          url: https://www.blocknative.com/gas-estimator?utm_campaign=Gas%20Platform&utm_source=share-extension
+          description: 浏览器插件，实时查询 gas。
+
+        - title: 小狐狸钱包
+          logo: https://metamask.io/favicon-32x32.png?v=48400a28770e10dd52a8c0e539aeb282
+          url: https://metamask.io/    
+          description: 
+        - title: 查询 ip 地址
+          logo: https://whoer.net/favicon.png
+          url: https://whoer.net/zh#
+          description: 查询 ip 地址质量。
+        - title: 取消钱包授权
+          logo: https://revoke.cash/favicon.ico
+          url: https://revoke.cash/zh
+          description: 撤销在 Ethereum 等 100+ 区块链上的代币授权，重新掌控自己的钱包，确保资金安全。
+
+
+
